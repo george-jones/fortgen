@@ -1,0 +1,115 @@
+<mapgen>
+	<fort>
+		<size x="6" y="6" z="6" />
+		<unit_size x="250" y="250" z="128" />
+		<flag x="5" y="2" z="3" />
+		<path_len value="5" />
+		<path_split p="0.35" />
+		<x_double p="0.25" />
+		<y_double p="0.25" />
+		<z_double p="0.35" />
+		<exits>
+			<e num="1" p="0.02" />
+			<e num="2" p="0.30" />
+			<e num="3" p="0.50" />
+			<e num="4" p="0.15" />
+			<e num="5" p="0.03" />
+		</exits>
+	</fort>
+	<walkway width="60" />
+	<stair height="6" width="40" />
+	<window p="0.40" width="40" height="40" z="30"/>
+	<door width="60" height="105" />
+	<textures>
+		<ttype id="floor">
+			<tgroup>			
+				<t team="1" txt="egypt_concrete_floor2" x_scale="256" y_scale="256" />
+				<t team="2" txt="mtl_caen_floor_int_carpet_01" x_scale="256" y_scale="256" />
+			</tgroup>
+		</ttype>
+		<ttype id="ceiling">
+			<tgroup>
+				<t team="1" txt="duhoc_concrete_multi" x_scale="256" y_scale="256" />
+				<t team="2" txt="mtl_caen_ceiling_02" x_scale="256" y_scale="256" />
+			</tgroup>
+		</ttype>
+		<ttype id="exteriorwall">
+			<tgroup>
+				<t team="1" txt="hill400_bunker_extwall01" x_scale="512" y_scale="512" />
+				<t team="2" txt="egypt_plaster_exteriorwall02" x_scale="512" y_scale="512" />
+			</tgroup>
+		</ttype>
+		<ttype id="interiorwall">
+			<tgroup>
+				<t team="1" txt="duhoc_block_wall1" x_scale="128" y_scale="128" />
+				<t team="2" txt="egypt_largedome1" x_scale="128" y_scale="128" />
+			</tgroup>
+			<tgroup>				
+				<t team="1" txt="egypt_concrete_interiorbunker1" x_scale="256" y_scale="128" />
+				<t team="2" txt="egypt_plaster_interiorwall2_body" x_scale="128" y_scale="128" />
+			</tgroup>
+			<tgroup>
+				<t team="1" txt="egypt_concrete_interiorbunker2" x_scale="128" y_scale="128" />
+				<t team="2" txt="egypt_plaster_interiorwall2_body2" x_scale="192" y_scale="192" />
+			</tgroup>
+			<tgroup>
+				<t team="1" txt="duhoc_concrete_stripe2" x_scale="128" y_scale="128" />
+				<t team="2" txt="egypt_plaster_interiorwall5" x_scale="192" y_scale="192" />
+			</tgroup>
+			<tgroup>
+				<t team="1" txt="egypt_concrete_arch2ceiling" x_scale="128" y_scale="128" />
+				<t team="2" txt="egypt_plaster_interiorwall6" x_scale="192" y_scale="192" />
+			</tgroup>
+			<tgroup>
+				<t team="1" txt="egypt_concrete_exteriorbunker1_top" x_scale="128" y_scale="128" />
+				<t team="2" txt="egypt_plaster_stucco1" x_scale="128" y_scale="128" />
+			</tgroup>
+			<tgroup>
+				<t team="1" txt="egypt_concrete_floor2" x_scale="128" y_scale="128" />
+				<t team="2" txt="egypt_smalldome2" x_scale="256" y_scale="256" />
+			</tgroup>
+			<tgroup>
+				<t team="1" txt="egypt_concrete_floor4" x_scale="128" y_scale="128" />
+				<t team="2" txt="egypt_plaster_stucco1_body2" x_scale="128" y_scale="128" />
+			</tgroup>		
+		</ttype>
+		<ttype id="walkway">
+			<tgroup>
+				<t team="1" txt="mtl_caen_road_asphalt_01" x_scale="64" y_scale="64" />
+				<t team="2" txt="egypt_plaster_interiorwall4" x_scale="64" y_scale="64" />
+			</tgroup>
+		</ttype>
+		<ttype id="stair">
+			<tgroup>
+				<t team="1" txt="duhoc_concrete_side" x_scale="128" y_scale="128" />
+				<t team="2" txt="egypt_plaster_interiorwall2_body2" x_scale="128" y_scale="128" />
+			</tgroup>				
+		</ttype>
+		<ttype id="support">
+			<tgroup>
+				<t team="1" txt="egypt_concrete_exteriorbunker1" x_scale="512" y_scale="256" />
+				<t team="2" txt="toujane_plasterwall_yellow" x_scale="512" y_scale="256" />
+			</tgroup>				
+		</ttype>
+		<ttype id="gate">
+			<tgroup>
+				<t txt="mtl_caen_stonewall_02" x_scale="256" y_scale="256" />
+			</tgroup>
+		</ttype>
+		<ttype id="sky">
+			<tgroup>
+				<t txt="sky_duhoc" x_scale="1024" y_scale="1024" />
+			</tgroup>
+		</ttype>
+		<ttype id="ground">
+			<tgroup>
+				<t txt="egypt_sandblown01_night" x_scale="256" y_scale="256" />
+			</tgroup>
+		</ttype>
+		<ttype id="caulk">
+			<tgroup>
+				<t txt="caulk" x_scale="256" y_scale="256" />
+			</tgroup>
+		</ttype>
+	</textures>
+</mapgen>

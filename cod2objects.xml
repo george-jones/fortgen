@@ -1,0 +1,139 @@
+<objects>
+	<o id="awning1" model="awning_2x4-5_1" width="63" length="25" height="39" angle="270" center="120" />
+	<o id="awning2" model="awning_2x4-5_2" width="63" length="25" height="39" angle="270" center="120" />
+	<o id="awning3" model="awning_2x4-5_3" width="63" length="25" height="39" angle="270" center="120" />
+	<o id="ceiling_light1" model="bunker_ceiling_light_off" width="12" length="12" height="7" upside_down="1" center="112" />
+	<o id="ceiling_light2" model="bunker_ceiling_light_on" width="12" length="12" height="7" upside_down="1" center="112" />
+	<o id="wall_light1" model="bunker_wall_light_off" width="6" length="4" height="10" upside_down="1" center="111" />
+	<o id="wall_light2" model="bunker_wall_light_on" width="6" length="4" height="10" upside_down="1" center="111" />
+	<o id="pipe1" model="bunker_pipe_length" width="77" length="4" height="2" upside_down="1" angle="90" center="012" />
+	<o id="pipe2" model="bunker_pipe_short" width="32" length="4" height="2" upside_down="1" angle="270" center="012" />
+	<o id="pipe_l" model="bunker_pipe_elbow" width="2" length="2" height="2" upside_down="1" angle="270" center="112" />
+	<o id="pipe_t" model="bunker_pipe_tconnection" width="4" length="3" height="2" upside_down="1" center="112" />
+	<o id="pipe_x" model="bunker_pipe_xconnection" width="4" length="4" height="2" upside_down="1" center="112" />
+	<o id="rock1" model="duhoc_halfrock1" width="18" length="20" height="8" center="111" />
+	<o id="rock2" model="duhoc_halfrock2" width="16" length="14" height="12" center="111" />
+	<o id="rock3" model="duhoc_halfrock3" width="18" length="14" height="14" center="111" />
+	<o id="rock4" model="duhoc_halfrock4" width="16" length="18" height="10" center="111" />
+	<o id="rock5" model="duhoc_halfrock5" width="18" length="18" height="10" center="111" />
+	<o id="crate1" model="crate01" width="50" length="26" height="26" angle="270" center="110" />
+	<o id="crate2" model="crate02" width="50" length="26" height="26" angle="270" center="110" />
+	<o id="tanker" model="egypt_bunker_tanker" width="98" length="60" height="61" angle="90" center="110" />
+	<o id="bathtub" model="furniture_bathtub" width="88" length="40" height="30" center="110" />
+	<o id="toilet" model="furniture_toilet1" width="28" length="52" height="42" angle="270" center="110" />
+	<o id="bed1" model="furniture_bed_bunker" width="88" length="37" height="27" angle="90" center="020" />
+	<o id="bed2" model="furniture_bed_bunker1" width="88" length="37" height="34" angle="90" center="110" />
+	<o id="bed3" model="furniture_bed_bunker2" width="88" length="37" height="77" angle="90" center="120" />
+	<o id="desk" model="furniture_desk" width="76" length="32" height="36" angle="90" center="110" />
+	<o id="cabinet" model="furniture_cabinet" width="60" length="30" height="106" center="110" />
+	<o id="dresser" model="furniture_dresser" width="64" length="32" height="46" angle="270" center="110" />
+	<o id="sink" model="furniture_dirtysink" width="32" length="25" height="43" angle="270" center="110" />
+	<o id="chair1" model="furniture_duhoc_bunker_seat" width="22" length="16" height="20" angle="270" center="110" />
+	<o id="chair2" model="furniture_duhoc_chair" width="20" length="24" height="47" angle="270" center="110" />
+	<o id="chair2" model="furniture_northafrica_woodchair" width="23" length="25" height="44" center="110" />
+	<o id="couch" model="furniture_duhoc_couch" width="96" length="40" height="41" angle="270" center="110" />
+	<o id="table1" model="furniture_duhoc_bunker_table" width="46" length="34" height="34" angle="270" center="110" />
+	<o id="table2" model="furniture_northafrica_coffeetable" width="55" length="42" height="18" angle="270" center="110" />
+	<o id="table1" model="furniture_sidetable1" width="25" length="18" height="21" center="110" />
+	<o id="barrel1" model="hill400_barrel_black" width="30" length="30" height="45" center="110" />
+	<o id="barrel2" model="hill400_barrel_green" width="30" length="30" height="45" center="110" />
+	<o id="obstacle1" model="hill400_dragontooth" width="65" length="65" height="67" center="110" />
+	<o id="obstacle2" model="hill400_hedgehog" width="75" length="75" height="67" center="110" />
+	<o id="obstacle3" model="hill400_sandbag_curvedsection" width="61" length="154" height="35" angle="90" center="110" />
+	<o id="computer1" model="military_german_radio1_green" width="25" length="13" height="37" angle="180" center="110" />
+	<o id="computer2" model="military_german_radio1_grey" width="25" length="13" height="37" angle="180" center="110" />
+	<o id="computer3" model="military_german_radio1_tan" width="25" length="13" height="37" angle="180" center="110" />
+	<o id="computer4" model="military_german_radio2_green" width="25" length="13" height="37" angle="180" center="110" />
+	<o id="computer5" model="military_german_radio2_grey" width="25" length="13" height="37" angle="180" center="110" />
+	<o id="computer6" model="military_german_radio2_tan" width="25" length="13" height="37" angle="180" center="110" />	
+	<o id="wallstuff1" model="prop_map_northafrica" width="97" length="2" height="61" angle="270" center="121" />
+	<o id="tree1" model="tree_desertpalm01" width="149" length="164" height="314" center="110" />
+	<o id="tree2" model="tree_desertpalm02" width="157" length="169" height="401" center="110" />
+	<o id="tree3" model="tree_desertpalm03" width="163" length="176" height="322" center="110" />
+	<o id="tree4" model="tree_desertpalmgroup" width="202" length="191" height="349" center="110" />
+	<o id="crashed1" model="vehicle_africa_jeep_crash" width="49" length="75" height="66" center="110" />
+	<o id="crashed2" model="vehicle_crusader2_destroyed" width="354" length="193" height="143" center="110" />
+</object>
+
+<objectgroups>
+	<og id="trees">
+		<o id="tree1" />
+		<o id="tree2" />
+		<o id="tree3" />
+		<o id="tree4" />
+	</og>
+	<og id="obstacles">
+		<o id="obstacle1" />
+		<o id="obstacle2" />
+		<o id="obstacle3" />
+		<o id="barrel1" />
+		<o id="barrel2" />
+	</og>
+	<og id="deskstuff">
+		<o id="computer1" />
+		<o id="computer2" />
+		<o id="computer3" />
+		<o id="computer4" />
+		<o id="computer5" />
+		<o id="computer6" />
+	</og>
+	<og id="awnings">
+		<o id="awning1" />
+		<o id="awning2" />
+		<o id="awning3" />
+	</og>
+	<og id="boxes">
+		<o id="crate1" />
+		<o id="crate2" />
+	</og>
+	<og id="light_ceiling">
+		<o id="ceiling_light1" />
+		<o id="ceiling_light2" />
+	</og>
+	<og id="light_wall">
+		<o id="wall_light1" />
+		<o id="wall_light2" />
+	</og>
+	<og id="rocks">		
+		<o id="rock1" />
+		<o id="rock2" />
+		<o id="rock3" />
+		<o id="rock4" />
+		<o id="rock5" />		
+	</og>
+	<og id="bathroom">
+		<o id="bathtub" />
+		<o id="toilet" />
+	</og>
+	<og id="pipes">
+		<o id="pipe1" pipe_type="long" />
+		<o id="pipe2" pipe_type="short" />
+		<o id="pipe_l" pipe_type="l" />
+		<o id="pipe_t" pipe_type="x" />
+		<o id="pipe_x" pipe_type="t" />
+	</og>
+	<og id="beds">
+		<o id="bed1" />
+		<o id="bed2" />
+		<o id="bed3" />
+	</og>
+	<og id="furniture">
+		<o id="desk" />
+		<o id="cabinet" />
+		<o id="dresser" />
+		<o id="chair1" />
+		<o id="chair2" />
+		<o id="chair2" />
+		<o id="couch" />
+		<o id="table1" />
+		<o id="table2" />
+		<o id="table1" />	
+	</og>
+	<og id="wallstuff">
+		<o id="wallstuff1" />
+	</og>
+	<og id="outdoor_junk">
+		<o id="crashed1" />
+		<o id="crashed2" />
+	</og>
+</objectgroups>	
